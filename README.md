@@ -4,7 +4,7 @@
 
 i am learning vscode sowe i desided to make wordle
 
-### this are som screen shots
+### this are som screen shots of my game
 
 ![keyboard screen](https://raw.githubusercontent.com/ezekielezel/wordel/main/Capture.PNG)
 
