@@ -1,6 +1,8 @@
 
 ##         this is a wordle copy
 
+this a link (https://ezekielezel.github.io/wordel/)
+
 i am learning vscode sowe i desided to make wordle
 
 ### this are som screen shots of my game
