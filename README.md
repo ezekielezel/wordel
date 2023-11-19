@@ -1,6 +1,5 @@
-# README imiges
 
-## this is a wordle copy
+##         this is a wordle copy
 
 i am learning vscode sowe i desided to make wordle
 
