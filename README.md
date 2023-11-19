@@ -1,9 +1,5 @@
-# wordel
+# README imiges
 
-this is a wordie copie
+![keyboard screen](https://raw.githubusercontent.com/ezekielezel/wordel/main/Capture.PNG)
 
-## screenshots
-
-! [title screen] (https://raw.githubusercontent.com/ezekielezel/wordel/main/Capture.PNG)
-
-!.[keyboard].(https://raw.githubusercontent.com/ezekielezel/wordel/main/Capture%201.PNG)
+![title screen](https://raw.githubusercontent.com/ezekielezel/wordel/main/Capture%201.PNG)
